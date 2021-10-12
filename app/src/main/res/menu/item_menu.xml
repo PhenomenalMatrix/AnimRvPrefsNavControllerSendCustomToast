@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/sentFragment"
+        android:title="send"
+        />
+
+    <item
+        android:id="@+id/recyclerFragment"
+        android:title="recycler"
+        />
+    <item
+        android:id="@+id/prefsFragment"
+        android:title="prefs"/>
+</menu>
